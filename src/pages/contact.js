@@ -63,6 +63,8 @@ export const Contact = () => {
 
         <input id="submit_button" type="submit" value="Send email" />
       </form>
+      <br />
+      <footer>copyright @2023</footer>
     </div>
   );
 };

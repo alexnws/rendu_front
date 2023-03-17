@@ -38,6 +38,8 @@ export const PageB = ({ data }) => {
             mes compétences et mon expérience au service de cette ambition.
           </p>
         </section>
+        <br />
+        <footer>copyright @2023</footer>
       </body>
     </>
   );

@@ -15,7 +15,7 @@ const style_box = {
 export function Menu() {
   return (
     <div style={style_box}>
-      <NavCell to="/home">{tree.fr.home}</NavCell>
+      <NavCell to="/">{tree.fr.home}</NavCell>
       <NavCell to="/apropos">{tree.fr.about}</NavCell>
       <NavCell to="/contact">{tree.fr.contact}</NavCell>
       <NavCell to="/scentsoft">{tree.fr.scentsoft}</NavCell>

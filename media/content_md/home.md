@@ -1,6 +1,6 @@
 ---
-menu: ""
+menu: "acceuil"
 title: ""
-categorie: ""
+categorie: "home"
 lang: "fr"
 ---
