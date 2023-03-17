@@ -1,0 +1,24 @@
+{
+  "fr": {
+    "home": "accueil",
+    "contact": "contact",
+    "about": "à propos",
+    "scentsoft": "Scentsoft",
+    "other": "journal",
+    "lang": {
+      "fr": "français",
+      "en": "anglais"
+    }
+  },
+  "en": {
+    "home": "home",
+    "contact": "contact",
+    "about": "about",
+    "scentsoft": "Scentsoft",
+    "other": "blog",
+    "lang": {
+      "fr": "french",
+      "en": "english"
+    }
+  }
+}

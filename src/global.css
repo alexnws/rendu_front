@@ -1,0 +1,11 @@
+:root {
+  --color_1: white;
+
+  /* the app settig */
+  --color_text: var(--color_2);
+
+  --color_global: var(--color_2);
+  --color_header: var(--color_4);
+  --color_layout: var(--color_3);
+  --color_footer: var(--color_4);
+}
