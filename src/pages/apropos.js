@@ -24,12 +24,10 @@ export const PageB = ({ data }) => {
         </p>
         <section>
           <h2>Mes compétences</h2>
-          <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>React.JS</li>
-          </ul>
+          <p>HTML</p>
+          <p>CSS</p>
+          <p>JavaScript</p>
+          <p>React.JS</p>
         </section>
         <section>
           <h2>Mon objectif</h2>
